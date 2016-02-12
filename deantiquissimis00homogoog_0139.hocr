@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deantiquissimis00homogoog_0139.png"; bbox 0 0 3534 5617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1629 482 1905 540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1629 482 1905 540">
+     <span class='ocr_line' id='line_1_1' title="bbox 1629 482 1905 540; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1629 482 1761 540; x_wconf 52' lang='grc' dir='ltr'>,Ῥμσ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1794 482 1905 539; x_wconf 64' lang='lat' dir='ltr'>&lt;z—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 804 999 2746 4411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 804 999 2746 4411">
+     <span class='ocr_line' id='line_1_2' title="bbox 804 999 2746 4411; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 804 999 2746 4411; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1529 4781 2036 4837">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1529 4781 2036 4837">
+     <span class='ocr_line' id='line_1_3' title="bbox 1529 4781 2036 4837; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1529 4783 1675 4837; x_wconf 44' lang='grc' dir='ltr'>ἓηῇἂκ,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1699 4781 1890 4837; x_wconf 45' lang='grc' dir='ltr'>Ὁαῖήλί</span> <span class='ocrx_word' id='word_1_6' title='bbox 1903 4811 1909 4820; x_wconf 83' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1925 4781 2036 4817; x_wconf 47' lang='lat' dir='ltr'>suas-t,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

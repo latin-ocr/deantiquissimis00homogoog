@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deantiquissimis00homogoog_0137.png"; bbox 0 0 3534 5617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1599 601 1882 677">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1599 601 1882 677">
+     <span class='ocr_line' id='line_1_1' title="bbox 1599 601 1882 677; baseline -0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1599 620 1720 676; x_wconf 53' lang='lat' dir='ltr'><em>&#39;sab</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1763 601 1882 677; x_wconf 60' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 38 3714 45 4009">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 38 3714 45 4009">
+     <span class='ocr_line' id='line_1_2' title="bbox 38 3714 45 4009; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 38 3967 45 4009; x_wconf 47' lang='lat' dir='ltr'><em>v-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 38 3910 42 3937; x_wconf 44' lang='lat'><em>——2</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 38 3794 44 3899; x_wconf 46' lang='lat' dir='ltr'><em>——w‘-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 38 3714 43 3777; x_wconf 52' lang='lat' dir='ltr'><em>ne-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 975 1158 2479 4332">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 975 1158 2479 4332">
+     <span class='ocr_line' id='line_1_3' title="bbox 975 1158 2479 4332; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 975 1158 2479 4332; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1475 4715 1973 4776">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1475 4715 1973 4776">
+     <span class='ocr_line' id='line_1_4' title="bbox 1475 4715 1973 4776; baseline 0.006 -24"><span class='ocrx_word' id='word_1_8' title='bbox 1475 4717 1612 4776; x_wconf 59' lang='lat' dir='ltr'><em>llelt&#39;qq.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1638 4716 1830 4774; x_wconf 56' lang='lat' dir='ltr'><em>Degia-din</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1845 4751 1848 4754; x_wconf 91' lang='lat'>.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1866 4715 1973 4755; x_wconf 59' lang='lat' dir='ltr'><em>vair</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
